@@ -1,5 +1,3 @@
-# Masha Antoshkina - 3104393
-
 .SILENT:
 
 CC = gcc

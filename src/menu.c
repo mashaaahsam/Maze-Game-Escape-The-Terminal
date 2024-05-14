@@ -1,6 +1,3 @@
-// Masha Antoshkina - 3104393
-// Shanil Kumar - 3078389
-
 #include <stdio.h>
 #include <curses.h>
 #include <unistd.h>

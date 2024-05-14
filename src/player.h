@@ -2,7 +2,7 @@
  * @file player.h                                               *
  * @brief Public interface fora playing character               *
  * @authors Masha, Shanil                                       *
- * @date Mar. 22, 2023                                          *
+ * @date Mar. 22, 2024                                          *
  ****************************************************************/
 
 #ifndef PLAYER_H
